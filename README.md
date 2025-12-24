@@ -119,7 +119,7 @@ Publish the website in the given URL.
     <br>
 
     <h1 style="text-align: center; margin-top: 20px;">INTERACTIVE PHOTO GALLERY</h1>
-    <h3 style="text-align: center; margin-top: 20px;">SUGESHAN 212224040337</h3>
+    <h3 style="text-align: center; margin-top: 20px;">MUKESHKUMAR(25012063)</h3>
      <br>
      <br>
      <br>
